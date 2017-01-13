@@ -3,7 +3,7 @@
 """
 ☆*°☆*°(∩^o^)~━━ 2017/1/12 09:18:10        
       (ˉ▽￣～) ~~ 一捆好葱 (*˙︶˙*)☆*°
-      Fuction：备用外网域名http://110.65.10.235/(3t3xo1jj22lvv3eeyixqzxai)/√ ━━━━━☆*°☆*°
+      Fuction：备用外网域名http://110.65.10.235/(3t3xo1jj22lvv3eeyixqzxai)/ √ ━━━━━☆*°☆*°
 """
 import urllib2
 import urllib
