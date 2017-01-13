@@ -1,2 +1,1 @@
-# syntax_analyzer
-review the complier theory
+# 教务系统小爬虫
