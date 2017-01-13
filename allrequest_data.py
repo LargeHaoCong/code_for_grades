@@ -93,3 +93,4 @@ data_3['2017']={'__VIEWSTATE':'dDwtMzg4NjMzNTA5O3Q8cDxsPHN0cl94bnhxY3g7U29ydEV4c
 
 POST_OR_NOT['2016']=POST_OR_NOT['2017']=POST_OR_NOT['专业选修']='YES'
 POST_OR_NOT['体育选课']=POST_OR_NOT['学生选课']='NO'
+#
