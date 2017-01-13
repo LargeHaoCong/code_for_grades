@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#关于官方域名的提交数据还未完全完善
 data={}
 headers={}
 url={}
