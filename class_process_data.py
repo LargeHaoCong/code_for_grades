@@ -59,4 +59,4 @@ def get_table(s):
 			break
 	print x
 	return x
-# get_table('d:\\0test.txt')
+## get_table('d:\\0test.txt')
